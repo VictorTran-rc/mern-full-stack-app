@@ -1,0 +1,9 @@
+The Back-end will comprise Http endpoints to cover the following use case
+
+Retrieve the complete list of available todo items by sending an Http get request
+
+Retrieve a specific todo item by sending Http GET request and provide the specific todo ID in addition
+
+Create a new todo item in the database by sending an HTTP POST request
+
+Update an existing todo item in the database by sending an HTTP Post request 
